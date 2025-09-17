@@ -1,6 +1,6 @@
-# 📌 MeetIQ – Smart AI-Powered Conferencing
+# MeetIQ – Smart AI-Powered Conferencing
 
-## 🔖 Project Title & Description
+## Project Title & Description
 **MeetIQ** is an AI-powered video conferencing platform that helps individuals, teams, and organizations run smarter, more productive meetings.
 
 With MeetIQ, users can:
@@ -20,7 +20,7 @@ Meetings often waste time and lack follow-up. MeetIQ transforms meetings into ac
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### **Frontend**
 - React.js (Next.js) → responsive UI & SSR.
@@ -51,9 +51,9 @@ Meetings often waste time and lack follow-up. MeetIQ transforms meetings into ac
 
 ---
 
-## 🧠 AI Integration Strategy
+## AI Integration Strategy
 
-### 🧱 Code Generation
+### Code Generation
 Use AI in **Cursor/Zed IDE** to scaffold:
 - React components (`MeetingRoom`, `ChatBox`, `VideoTile`).
 - Express.js routes (`/create-room`, `/join-room`).
@@ -64,7 +64,7 @@ Use AI in **Cursor/Zed IDE** to scaffold:
 
 ---
 
-### 🧪 Testing Support
+### Testing Support
 - Use AI to generate **Jest unit tests** and **Supertest integration tests**.
 - Cover user authentication, API endpoints, and video signaling logic.
 
@@ -73,7 +73,7 @@ Use AI in **Cursor/Zed IDE** to scaffold:
 
 ---
 
-### 📄 Documentation
+### Documentation
 - Auto-generate **inline comments and docstrings** for React components and backend services.
 - Use AI to maintain `README.md`, setup guides, and API documentation.
 - Generate **API docs** from OpenAPI spec with AI-assisted descriptions.
@@ -83,7 +83,7 @@ Use AI in **Cursor/Zed IDE** to scaffold:
 
 ---
 
-### 📡 Context-Aware Techniques
+### Context-Aware Techniques
 - Feed **OpenAPI spec** to AI → generate typed API calls for frontend.
 - Provide **Mongoose schemas** → generate CRUD services and validation logic.
 - Use **file tree/diff prompts** in AI agents → generate PR summaries and suggest improvements.
