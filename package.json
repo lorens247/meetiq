@@ -1,0 +1,20 @@
+{
+  "name": "meetiq",
+  "version": "1.0.0",
+  "description": "**MeetIQ** is an AI-powered video conferencing platform that helps individuals, teams, and organizations run smarter, more productive meetings.",
+  "homepage": "https://github.com/lorens247/meetiq#readme",
+  "bugs": {
+    "url": "https://github.com/lorens247/meetiq/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://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@github.com/lorens247/meetiq.git"
+  },
+  "license": "ISC",
+  "author": "Lawrence Ikhidero",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
